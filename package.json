@@ -1,0 +1,19 @@
+{
+  "name": "generator-rem",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://coding.net/u/slert/p/generator-rem/git"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^0.24.1"
+  }
+}
