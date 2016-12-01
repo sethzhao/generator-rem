@@ -1,5 +1,5 @@
 # 简介
-这是一个yeoman generator。生成使用rem方式适配移动终端的web工程。
+这是一个yeoman generator。生成使用rem方式适配移动终端的web工程。支持sass,autoprefixer,liveReload等,并可以自动将px转成rem，详见参考文章内提到的postcss插件px2rem。
 
 # 使用方法
 
@@ -7,6 +7,7 @@
 ```
 npm install -g yo
 npm install -g generator-rem
+npm install -g gulp-cli
 ```
 
 ## 创建项目
